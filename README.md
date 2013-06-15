@@ -5,7 +5,7 @@ Lord of Ultima - Add Baron information to the players title bar. Created by resu
 
 ![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/baronbar.PNG)
 
-Barons: Total / Ready for use / In Recruitment / Can Recruit
+Barons: Total / Ready for use / In Recruitment / Can Recruit  
 Purified Resources: Darkwood / Runestone / Veritum / Trueseed
 
 Available as both a Chrome extension and  GreaseMonkey script. 
@@ -14,7 +14,10 @@ Available as both a Chrome extension and  GreaseMonkey script.
 Installation
 -------------
 
+**Note**: Code has been moved from https://baronbar.codeplex.com/ to https://github.com/Digitalroot/LoU-Baron-Bar some of the instructions below are a reference to codeplex. 
+
 Download either the Greasemonkey or Chrome extension version of Baron Bar. (Chrome extension can be found by clicking the **View all downloads** link to the right or the **Downloads** tab from above.)
+
 
 ### Firefox
 If you are using Firefox download the Greasemonkey version. Your browser will save the **baronbar.user.js** somewhere. Open your Downloads window. 
