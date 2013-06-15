@@ -23,11 +23,11 @@ If you are using Firefox download the Greasemonkey version. Your browser will sa
 
 **Right Click** the **baronbar.user.js** file from the Downloads window and select **Open Containing Folder**
 
-![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/open.PNG)
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/open.png)
 
 **Drag** and **Drop** the **baronbar.user.js** file from the Explorer window on top of Firefox. You should get the Greasemonkey install window.
 
-![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/baronbar2.PNG)
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/baronbar2.png)
 
 
 ### Chrome
