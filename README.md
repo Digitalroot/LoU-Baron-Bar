@@ -19,30 +19,30 @@ Download either the Greasemonkey or Chrome extension version of Baron Bar. (Chro
 ### Firefox
 If you are using Firefox download the Greasemonkey version. Your browser will save the **baronbar.user.js** somewhere. Open your Downloads window. 
 
-[image:firefoxdownload.PNG]
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/firefoxdownload.PNG)
 
 **Right Click** the **baronbar.user.js** file from the Downloads window and select **Open Containing Folder**
 
-[image:open.PNG]
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/open.PNG)
 
 **Drag** and **Drop** the **baronbar.user.js** file from the Explorer window on top of Firefox. You should get the Greasemonkey install window.
 
-[image:baronbar2.png]
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/baronbar2.PNG)
 
 
 ### Chrome
 If you are using Chrome download either the Chrome Extention or the Greasemonkey version. Your browser will save the **BaronBar.crx** or **baronbar.user.js** somewhere. Open your Downloads window. i.e. **chrome://downloads/**
 
-[image:chromedownloads.PNG]
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/chromedownloads.PNG)
 
 Click **Show in folder**
 
 **Drag** and **Drop** the **BaronBar.crx** or **baronbar.user.js** file from the Explorer window on top of chrome. You should get the Chrome extension install pop-up.
 
-[image:chromeinstall.PNG]
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/chromeinstall.PNG)
 
 Click continue.
 
-[image:chromeinstall2.PNG]
+![ScreenShot](https://raw.github.com/Digitalroot/LoU-Baron-Bar/Screenshots/chromeinstall2.PNG)
 
 Click install.
