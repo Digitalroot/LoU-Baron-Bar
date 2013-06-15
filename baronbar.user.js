@@ -4,7 +4,7 @@
 // @license        Creative Commons Attribution-ShareAlike 3.0 Unported License - http://creativecommons.org/licenses/by-sa/3.0/
 // @description    Add Baron information to the players title bar. Created by resurrecting the discontinued "LoU UI MS Baron" script by OzGoober.
 // @include        http://prodgame*.lordofultima.com/*/index.aspx*
-// @version        2.0.1
+// @version        2.0.2
 // ==/UserScript==
 
 (function ()
@@ -103,7 +103,7 @@
           var TotalBarons  = oPlayer.getBarons();
           var IdleBarons   = oPlayer.getBaronsIdle();
           var QueuedBarons = oPlayer.getBaronsQueue();
-          var AvailableBarons = oTech.getBonus("baronCount") - ((oPlayer.getNumCities()-1)+IdleBarons+QueuedBarons);
+          var AvailableBarons = oTech.getBonus("baronCount",webfrontend.data.Tech.research) - ((oPlayer.getNumCities()-1)+IdleBarons+QueuedBarons);
           BaronValue.setValue(TotalBarons + "/" + IdleBarons + "/" + QueuedBarons + "/" + AvailableBarons);
           //BaronValue.setValue("100/100/20/100");
         }
