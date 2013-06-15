@@ -11,7 +11,8 @@ Purified Resources: Darkwood / Runestone / Veritum / Trueseed
 Available as both a Chrome extension and  GreaseMonkey script. 
 
 
-## Installation
+Installation
+-------------
 
 Download either the Greasemonkey or Chrome extension version of Baron Bar. (Chrome extension can be found by clicking the **View all downloads** link to the right or the **Downloads** tab from above.)
 
